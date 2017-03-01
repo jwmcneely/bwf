@@ -22,6 +22,5 @@ var apanaApp = angular.module('apanaApp', [
   impactApp.config(function (RestangularProvider) {
     RestangularProvider.setFullResponse(true);
     return RestangularProvider.setBaseUrl('http://impact.api.app:8080/v1/');
-
   });
 */
