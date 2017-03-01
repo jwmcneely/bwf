@@ -1,0 +1,18 @@
+{
+  "name": "bwf_database",
+  "homepage": "breadwine.org",
+  "authors": [
+    "Jim McNeely"
+  ],
+  "description": "web app database for Bread and Wine Fellowship",
+  "main": "index.html",
+  "license": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

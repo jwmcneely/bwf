@@ -1,0 +1,8 @@
+.vagrant/
+site/front_end/bower_components/**
+build/**
+
+# general file types to ignore
+.DS_Store
+*.log
+*.sql

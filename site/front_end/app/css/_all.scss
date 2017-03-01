@@ -1,0 +1,95 @@
+/*@import 'buttons';*/
+/*@import 'calendar';*/
+/*@import 'forms';*/
+/*@import 'icons';*/
+/*@import 'labels';*/
+/*@import 'modals';*/
+/*@import 'navbar';*/
+/*@import 'page';*/
+/*@import 'tables';*/
+/*@import 'tabs';*/
+/*@import 'typography';*/
+
+.l5 {
+    margin-left: 5px;
+}
+
+.l10 {
+    margin-left: 10px;
+}
+
+.l15 {
+    margin-left: 15px;
+}
+
+.l20 {
+    margin-left: 20px;
+}
+
+.l25 {
+    margin-left: 25px;
+}
+
+.l30 {
+    margin-left: 30px;
+}
+
+.t5 {
+    margin-top: 5px;
+}
+
+.t10 {
+    margin-top: 10px;
+}
+
+.t15 {
+    margin-top: 15px;
+}
+
+.t20 {
+    margin-top: 20px;
+}
+
+.b5 {
+    margin-bottom: 5px;
+}
+
+.b10 {
+    margin-bottom: 10px;
+}
+
+.b15 {
+    margin-bottom: 15px;
+}
+
+.b20 {
+    margin-bottom: 20px;
+}
+
+.r5 {
+    margin-right: 5px;
+}
+
+.r10 {
+    margin-right: 10px;
+}
+
+.r15 {
+    margin-right: 15px;
+}
+
+.r20 {
+    margin-right: 20px;
+}
+
+.bg-gray{
+    background-color: $imp-gray;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.testing {
+    width: percentage(5/7);
+}
